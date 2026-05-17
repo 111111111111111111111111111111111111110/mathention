@@ -1,3 +1,5 @@
+#—Copyright © 2026 Spencer Burwell—#
+
 import torch
 import math
 
